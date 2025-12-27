@@ -1,1 +1,1 @@
-# Sorting-Visualizer
+Sorting Visualizer is an interactive web app built with HTML, CSS, and JavaScript that lets you visualize popular sorting algorithms like Bubble Sort, Selection Sort, Insertion Sort, Quick Sort, and Merge Sort. It features adjustable array size and sorting speed, smooth bar animations, and a responsive design to help you understand how each algorithm works step by step. This project makes learning sorting algorithms fun, intuitive, and visual, while showcasing the power of front-end web technologies.
